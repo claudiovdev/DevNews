@@ -1,0 +1,23 @@
+.card{
+    border: none;
+    
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 0.5rem 0rem;
+    border-radius: 7px;
+}
+
+.card-img-overlay h2{
+    color: #ffff;
+    font-weight: 700;
+}
+.card-img-overlay p{
+    color: #ffff;
+    font-weight: 700;
+}
+
+img {
+    filter: brightness(70%);
+  }
